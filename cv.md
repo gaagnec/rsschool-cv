@@ -2,10 +2,10 @@
 
 ## Contact info:
 
-- Address: Belarus, Minsk / Poland
-- E-mail: gaagnec@gmail.com
-- LinkedIn: www.linkedin.com/in/gaagnec
-- GitHub: https://github.com/gaagnec
+- **Address:** Belarus, Minsk / Poland
+- **E-mail:** gaagnec@gmail.com
+- **LinkedIn:** www.linkedin.com/in/gaagnec
+- **GitHub:** https://github.com/gaagnec
 
 ## Skills
 
@@ -43,3 +43,10 @@ function toBinary(n) {
   return Number(resultReverse);
 }
 ```
+
+## Languages
+
+- **English** - A1-A2
+- **Polski** - A1
+- **Russian** - Native
+- **Belarusian** - Native
