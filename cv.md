@@ -15,6 +15,7 @@
 - CMS Joomla, Wordpress, OpenCart
 - Sublime Text3, VS Code
 - Windows OS
+- SEO
 
 ## Code examples
 
