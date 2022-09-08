@@ -1,1 +1,1 @@
-https://gaagnec.github.io/rsschool-cv/cv
+https://gaagnec.github.io/rsschool-cv/
